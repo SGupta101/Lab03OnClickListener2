@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab03OnClickListener</string>
+    <string name="TopLeft">Top Left</string>
 </resources>
